@@ -1,0 +1,71 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(184, 182, 146);
+}
+
+.container {
+    margin-top: 8rem;
+    /* border: 2px solid black; */
+    padding: 2rem 4rem 2rem 4rem;
+    border-radius: 1rem;
+    background-color: white;
+    
+}
+.fromto{
+    display: flex;
+    justify-content: space-between;
+}
+.amount {
+    margin: 2rem 0rem 1rem 0rem;
+
+}
+
+.amount input {
+    padding: 10px;
+    width: 89%;
+    margin-top: 0.3rem;
+}
+.from{
+    display: flex;
+}
+.to{
+    display: flex;
+}
+
+.country {
+    display: flex;
+    justify-content: space-between;
+    align-self: cemter;
+    text-align: center;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.country img {
+    width: 20px;
+    height: 20px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
+    padding: 10px;
+    width: 100%;
+    margin: 1.7rem 0rem 1.5rem 0rem;
+    background-color: rgb(101, 12, 118);
+    color: white;
+}
+.result{
+    display: flex;
+    justify-self: center;
+    margin-top: 2rem;
+}
