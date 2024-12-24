@@ -35,6 +35,22 @@ To run this project locally:
    ```bash
    git clone https://github.com/PRATIKSINDHIYA/XChangePro.git
 
+---
+
+## 🙏 Acknowledgments
+- ExchangeRate-API for providing the free currency exchange rates API.
+- Flags API for providing the country flags.
+- Flaticon for providing icons.
+
+---
+
+## 📧 Contact
+If you have any questions, feel free to reach out:
+
+- GitHub: PRATIKSINDHIYA
+- Email: pratiksindhiya3@gmail.com
+  
+
 
 
 
